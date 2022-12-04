@@ -1,0 +1,21 @@
+.notification {
+  position: relative;
+  cursor: pointer;
+}
+
+.notification > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.notification > div > div {
+  position: absolute;
+  width: 0.9rem;
+  height: 0.9rem;
+  background: #45b36b;
+  border-radius: 0.6rem;
+  right: 0.2rem;
+  top: 0;
+}
