@@ -67,7 +67,7 @@ const Header = () => {
           </Grid>
           <Grid>
             <Item>
-              <Divider variant={'inset'} />d
+              <Divider variant={'inset'} />
             </Item>
           </Grid>
           <Grid>
